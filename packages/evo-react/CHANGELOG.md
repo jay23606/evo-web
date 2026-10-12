@@ -1,5 +1,11 @@
 # @evo-web/react
 
+## 0.4.10
+
+### Patch Changes
+
+- [#1022](https://github.com/eBay/evo-web/pull/1022) [`4fce07c`](https://github.com/eBay/evo-web/commit/4fce07c2bf139feae5ff710a5a7fbdc3461ba58a) Thanks [@HenriqueLimas](https://github.com/HenriqueLimas)! - Add EvoChipsCombobox with composable chip options, and add an `onOptionSelect` callback and a large input variant to EvoCombobox.
+
 ## 0.4.9
 
 ### Patch Changes
